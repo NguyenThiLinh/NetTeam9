@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//WebContent/Login.jsp=UTF-8
+encoding//WebContent/dangNhap.jsp=UTF-8
+encoding//WebContent/danhSachDichVu.jsp=UTF-8
+encoding//WebContent/danhSachKhachHang.jsp=UTF-8
+encoding//WebContent/templates/header.jsp=UTF-8
+encoding//WebContent/thongKeNapTien.jsp=UTF-8
+encoding//src/controller/admin/DangNhapServlet.java=UTF-8
+encoding//src/controller/dichvu/DatHang.java=UTF-8
+encoding//src/controller/dichvu/DichVuChoKhachHang.java=UTF-8
+encoding//src/controller/khachhang/KhachHangDangNhapServlet.java=UTF-8
+encoding//src/controller/nhanvien/QuanLyNhanVienController.java=UTF-8
+encoding//src/controller/nhanvien/dangNhapServlet.java=UTF-8
+encoding//src/controller/nhanvien/doiMatKhauNVServlet.java=UTF-8
